@@ -1,0 +1,28 @@
+{
+  "name": "cookie-format",
+  "version": "0.1.0",
+  "description": "format cookie for lib",
+  "main": "./src/index.js",
+  "scripts": {
+    "pack": "npm pack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whosydd/cookie-format.git"
+  },
+  "keywords": [
+    "cookie",
+    "format",
+    "puppeteer"
+  ],
+  "author": "whosydd <dev.youngkwok718@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whosydd/cookie-format/issues"
+  },
+  "homepage": "https://github.com/whosydd/cookie-format#readme",
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "prettier": "^2.4.1"
+  }
+}

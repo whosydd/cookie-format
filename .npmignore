@@ -1,0 +1,6 @@
+.editorconfig
+.eslintrc*
+.prettier*
+*.tgz
+jsconfig.json
+ts/
