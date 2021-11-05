@@ -1,6 +1,6 @@
 {
   "name": "cookie-format",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "format cookie for lib",
   "main": "./dist/index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "format",
     "puppeteer"
   ],
-  "author": "whosydd <dev.youngkwok718@gmail.com>",
+  "author": "GY <dev.youngkwok718@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/whosydd/cookie-format/issues"
