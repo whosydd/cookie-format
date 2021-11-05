@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.1
+
+- 修改返回`cookies`的类型，方便查询
+
 ## 0.2.0
 
 - 使用`typescript`重写
