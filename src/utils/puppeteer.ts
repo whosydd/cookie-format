@@ -12,8 +12,8 @@ interface PuppeteerCookieParam {
   sameSite?: CookieSameSite
 }
 
-export default (cookie: string, options: PuppeteerCookieParam) => {
-  const cookies: object[] = []
+export default (cookie: string, options: PuppeteerCookieParam): PuppeteerCookieParam[] => {
+  const cookies: PuppeteerCookieParam[] = []
   cookie.split('; ').map(item => {
     const res = item.split('=')
     const obj = { name: res[0], value: res[1] }
